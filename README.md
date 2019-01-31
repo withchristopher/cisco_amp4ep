@@ -1,4 +1,4 @@
-## AMP for Endpoints - Duplicate Fixer
+# AMP for Endpoints - Duplicate Fixer
 This python script is intended to delete duplicated AMP for EndPoint hostnames.
 
 
@@ -11,6 +11,6 @@ Authors: Max Wijnbladh and Chris Maxwell
 
 Video Demo: https://youtu.be/jXujBqelfLU
 
-# UML for script
+## UML for script
 
 ![](AMP4EP_Duplicator.png)
