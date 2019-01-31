@@ -1,8 +1,10 @@
 ##AMP for Endpoints - Duplicate Fixer
 This python script is intended to delete duplicated AMP for EndPoint hostnames.
 
+Video Demo: https://youtu.be/jXujBqelfLU
+
 The script executes as follows: Enter AMP4E -API Credentials -> Search all hostnames -> Create hostname duplicate list -> Query duplicate install date -> delete dated hostname. After the script runs, check AMP4E Console > Accounts > Audit Log, for changes the script performed.
 
-Use Case: Customer uses 
+Use Case: Host machine is wiped, new machine installs new AMP4EP connector. AMP4EP Console consumes license of old machine as well as new machine. Script deletes older GUID with matching hostnames.
 
 Authors: Max Wijnbladh and Chris Maxwell
