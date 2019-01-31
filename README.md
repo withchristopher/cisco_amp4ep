@@ -10,4 +10,7 @@ Use Case: Host machine is wiped, new machine installs new AMP4EP connector. AMP4
 Authors: Max Wijnbladh and Chris Maxwell
 
 Video Demo: https://youtu.be/jXujBqelfLU
+
+# UML for script
+
 ![](AMP4EP_Duplicator.png)
