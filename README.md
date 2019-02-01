@@ -14,3 +14,5 @@ Video Demo: https://youtu.be/jXujBqelfLU
 ## UML for script
 
 ![](AMP4EP_Duplicator.png)
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/withchristopher/cisco_amp4ep)
